@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "Tim ______ the news, while his son was playing computer games.",
+    "options": ["is watching", "was watching", "was watched", "watching"],
+    "answer": "was watching",
+    "explanation": "Dùng quá khứ tiếp diễn vì có hành động đang diễn ra trong quá khứ, dấu hiệu là “while his son was playing”."
+  },
+  {
+    "id": 2,
+    "question": "Lenny ______ his old house two months ago.",
+    "options": ["were selling", "sells", "is selling", "sold"],
+    "answer": "sold",
+    "explanation": "Có “two months ago” nên chọn thì quá khứ đơn."
+  },
+  {
+    "id": 3,
+    "question": "He didn’t meet Joe and Alf, because they left ______ than they usually do.",
+    "options": ["early", "earlier", "earliest", "the earliest"],
+    "answer": "earlier",
+    "explanation": "Có “than” nên dùng so sánh hơn: earlier."
+  },
+  {
+    "id": 4,
+    "question": "______ you finish your report on time?",
+    "options": ["Was", "Are", "Did", "Were"],
+    "answer": "Did",
+    "explanation": "Câu hỏi ở quá khứ đơn dùng “Did + chủ ngữ + động từ nguyên mẫu”."
+  },
+  {
+    "id": 5,
+    "question": "I was resting all day yesterday, because I was ______ tired.",
+    "options": ["terrible", "most terrible", "terribly", "more terribly"],
+    "answer": "terribly",
+    "explanation": "“Tired” là tính từ nên cần trạng từ bổ nghĩa: terribly."
+  },
+  {
+    "id": 6,
+    "question": "Robert was crossing the street when he ______Fred riding a motorcycle.",
+    "options": ["saw", "was seeing", "seeing", "is seeing"],
+    "answer": "saw",
+    "explanation": "Dùng quá khứ đơn (saw) để diễn tả hành động xảy ra xen vào hành động đang diễn ra (was crossing)."
+  },
+  {
+    "id": 7,
+    "question": "The artist is ______ famous of all three that you mentioned.",
+    "options": ["the less", "least", "less", "the least"],
+    "answer": "the least",
+    "explanation": "Có “of all three” nên dùng so sánh nhất; với tính từ dài dùng “the least + adj” → the least famous."
+  },
+  {
+    "id": 8,
+    "question": "That’s the boy ______ father is our teacher.",
+    "options": ["who", "which", "whose", "that"],
+    "answer": "whose",
+    "explanation": "Dùng “whose” để chỉ sở hữu: whose father."
+  },
+  {
+    "id": 9,
+    "question": "Can you tell me ______ to put these boxes?",
+    "options": ["where", "when", "which", "who"],
+    "answer": "where",
+    "explanation": "Câu hỏi hỏi vị trí nên dùng “where”."
+  },
+  {
+    "id": 10,
+    "question": "Mark, ______ is only twenty, teaches French.",
+    "options": ["which", "who", "whose", "when"],
+    "answer": "who",
+    "explanation": "Mệnh đề quan hệ chỉ người nên dùng “who”."
+  },
+  {
+    "id": 11,
+    "question": "My doctor advised me to ______ a sport.",
+    "options": ["take off", "take after", "take up", "take on"],
+    "answer": "take up",
+    "explanation": "“Take up” nghĩa là bắt đầu chơi một môn thể thao hoặc theo đuổi sở thích."
+  },
+  {
+    "id": 12,
+    "question": "I can’t believe that they ______ your offer.",
+    "options": ["turned on", "turned off", "turned out", "turned down"],
+    "answer": "turned down",
+    "explanation": "“Turn down” nghĩa là từ chối (lời đề nghị)."
+  },
+  {
+    "id": 13,
+    "question": "When I suggested a walk in the woods, he ______.",
+    "options": ["credited", "nodded", "raised", "shook"],
+    "answer": "nodded",
+    "explanation": "“Nodded” nghĩa là gật đầu, thể hiện sự đồng ý với đề nghị."
+  },
+  {
+    "id": 14,
+    "question": "After his mother’s ______, he moved to Argentina.",
+    "options": ["death", "strength", "power", "impression"],
+    "answer": "death",
+    "explanation": "“Death” phù hợp nhất với ngữ nghĩa của câu."
+  },
+  {
+    "id": 15,
+    "question": "It was really ______ that nobody was hurt in that accident.",
+    "options": ["strong", "powerful", "incredible", "truthful"],
+    "answer": "incredible",
+    "explanation": "“Incredible” nghĩa là khó tin, phù hợp với ngữ cảnh."
+  },
+  {
+    "id": 16,
+    "question": "Both my children are afraid ______ the dark.",
+    "options": ["of", "for", "on", "with"],
+    "answer": "of",
+    "explanation": "Cụm đúng là “afraid of”."
+  },
+  {
+    "id": 17,
+    "question": "They did everything in their ______ to keep the company.",
+    "options": ["truth", "strength", "impression", "power"],
+    "answer": "power",
+    "explanation": "“In their power” nghĩa là trong khả năng của họ, làm hết sức mình."
+  },
+  {
+    "id": 18,
+    "question": "I bought a leather bag that ______ my new boots.",
+    "options": ["match", "matches", "matching", "matched"],
+    "answer": "matches",
+    "explanation": "Chủ ngữ số ít “a leather bag” nên động từ chia “matches”."
+  },
+  {
+    "id": 19,
+    "question": "Both her children have a very vivid ______.",
+    "options": ["description", "impression", "admiration", "imagination"],
+    "answer": "imagination",
+    "explanation": "“Vivid imagination” nghĩa là trí tưởng tượng phong phú, sống động."
+  },
+  {
+    "id": 20,
+    "question": "I've got the ______ that they’re lying again.",
+    "options": ["impression", "admiration", "imagination", "description"],
+    "answer": "impression",
+    "explanation": "“Get the impression (that...)” nghĩa là có cảm giác hoặc ấn tượng rằng điều gì đó đúng."
+  },
+  {
+    "id": 21,
+    "question": "Teddy ______ of moving closer to the city centre.",
+    "options": ["thinks", "is thinking", "don't think", "aren't thinking"],
+    "answer": "is thinking",
+    "explanation": "“Is thinking of + V-ing” dùng khi đang cân nhắc một kế hoạch ở hiện tại."
+  },
+  {
+    "id": 22,
+    "question": "We ______ giving you a lift home.",
+    "options": ["don't mind", "aren't minding", "doesn't mind", "isn't minding"],
+    "answer": "don't mind",
+    "explanation":  "“Don’t mind + V-ing” nghĩa là không ngại làm gì; “mind” là động từ trạng thái nên không dùng ở thì tiếp diễn."
+  },
+  {
+    "id": 23,
+    "question": "The Potters ______ to Dubai at 9:00 tomorrow morning.",
+    "options": ["is flying", "don't fly", "doesn't fly", "are flying"],
+    "answer": "are flying",
+    "explanation": "Hiện tại tiếp diễn (are flying) dùng cho kế hoạch tương lai đã được sắp xếp rõ ràng."
+  },
+  {
+    "id": 24,
+    "question": "______ is your favourite European city?",
+    "options": ["When", "How", "Which", "Who"],
+    "answer": "Which",
+    "explanation": "“Which” dùng khi chọn trong một nhóm xác định (các thành phố châu Âu)."
+  },
+  {
+    "id": 25,
+    "question": "______ much do they charge for a single room with breakfast?",
+    "options": ["How", "Who", "What", "Where"],
+    "answer": "How",
+    "explanation": "Cụm hỏi giá tiền là “How much”."
+  },
+  {
+    "id": 26,
+    "question": "______ is your brother talking to?",
+    "options": ["When", "Who", "What", "Where"],
+    "answer": "Who",
+    "explanation": "Câu hỏi hỏi về người nên dùng “Who”."
+  },
+  {
+    "id": 27,
+    "question": "The teacher ______ believe his excuse for not coming to school yesterday.",
+    "options": ["didn't", "don't", "used to not", "use to"],
+    "answer": "didn't",
+    "explanation": "Có “yesterday” nên dùng quá khứ đơn: “didn't believe”."
+  },
+  {
+    "id": 28,
+    "question": "Bobby ______ skinny when he was a child.",
+    "options": ["was used to", "were", "used to be", "got used"],
+    "answer": "used to be",
+    "explanation": "“Used to be” diễn tả trạng thái hoặc thói quen trong quá khứ."
+  },
+  {
+    "id": 29,
+    "question": "I ______ to contact Mr. Peterson twice, but didn’t find him.",
+    "options": ["tried", "tries", "used to try", "try"],
+    "answer": "tried",
+    "explanation": "Hành động đã xảy ra trong quá khứ nên dùng “tried”."
+  },
+  {
+    "id": 30,
+    "question": "After a couple of days, Sam finally ______ up early in the morning.",
+    "options": ["used to wake", "get used to wake", "wake", "got used to waking"],
+    "answer": "got used to waking",
+    "explanation": "Cấu trúc đúng là “get used to + V-ing”; ở đây dùng quá khứ “got used to waking”."
+  },
+  {
+    "id": 31,
+    "question": "It took him a month to recover ______ his illness.",
+    "options": ["for", "from", "of", "at"],
+    "answer": "from",
+    "explanation": "Cụm đúng là “recover from”, nghĩa là hồi phục sau bệnh."
+  },
+  {
+    "id": 32,
+    "question": "The book exhibition took ______ at the Carlton Hotel.",
+    "options": ["part", "advantage", "place", "easy"],
+    "answer": "place",
+    "explanation": "Cụm đúng là “take place”, nghĩa là diễn ra."
+  },
+  {
+    "id": 33,
+    "question": "I didn’t ______ Jason to come on time.",
+    "options": ["expect", "remember", "wait", "reminded"],
+    "answer": "expect",
+    "explanation": "Cấu trúc đúng là “expect somebody to do something”."
+  },
+  {
+    "id": 34,
+    "question": "I’m sorry but I can’t find ______ the map.",
+    "options": ["over", "on", "between", "along"],
+    "answer": "on",
+    "explanation": "Cụm đúng là “on the map”, nghĩa là trên bản đồ."
+  },
+  {
+    "id": 35,
+    "question": "They spent the whole day in Alexandria looking at the ______.",
+    "options": ["tasks", "part", "jobs", "sights"],
+    "answer": "sights",
+    "explanation": "“Sights” phù hợp với ngữ cảnh tham quan, ngắm cảnh."
+  },
+  {
+    "id": 36,
+    "question": "He was lucky to find that ______ in their law firm.",
+    "options": ["job", "work", "site", "task"],
+    "answer": "job",
+    "explanation": "Cụm tự nhiên là “find a job”, nghĩa là tìm được một công việc."
+  },
+  {
+    "id": 37,
+    "question": "I think that these trainers belong ______ your brother.",
+    "options": ["on", "in", "to", "at"],
+    "answer": "to",
+    "explanation": "Cụm đúng là “belong to”, nghĩa là thuộc về."
+  },
+  {
+    "id": 38,
+    "question": "They usually take ______ of what I tell them.",
+    "options": ["their time", "part", "place", "notice"],
+    "answer": "notice",
+    "explanation": "Cụm đúng là “take notice of”, nghĩa là chú ý đến."
+  },
+  {
+    "id": 39,
+    "question": "We never argue ______ our teacher.",
+    "options": ["with", "at", "on", "from"],
+    "answer": "with",
+    "explanation": "Cụm đúng là “argue with somebody”, nghĩa là tranh cãi với ai."
+  },
+  {
+    "id": 40,
+    "question": "This dish is very healthy because it consists ______ fish and vegetables.",
+    "options": ["on", "of", "at", "with"],
+    "answer": "of",
+    "explanation": "Cụm đúng là “consist of”, nghĩa là bao gồm."
+  },
+  {
+    "id": 41,
+    "question": "At this time tomorrow, Gerry ______ his driving test.",
+    "options": ["shall take", "going to take", "shall have taken", "will be taking"],
+    "answer": "will be taking",
+    "explanation": "“At this time tomorrow” là dấu hiệu của thì tương lai tiếp diễn, nên dùng “will be taking”."
+  },
+  {
+    "id": 42,
+    "question": "Henry ______ a shower as soon as he finishes cleaning his room.",
+    "options": ["will have had", "will have", "have", "is having"],
+    "answer": "will have",
+    "explanation": "Diễn tả một hành động sẽ xảy ra trong tương lai sau khi một hành động khác hoàn tất, nên dùng “will have”."
+  },
+  {
+    "id": 43,
+    "question": "Will you ______ painting the house by tomorrow?",
+    "options": ["finished", "going to fish", "have finished", "finishing"],
+    "answer": "have finished",
+    "explanation": "Có “by tomorrow” nên dùng thì tương lai hoàn thành: “will have finished”."
+  },
+  {
+    "id": 44,
+    "question": "Those cars are going really fast. There ______ an accident.",
+    "options": ["is", "will have been", "is going to be", "going to be"],
+    "answer": "is going to be",
+    "explanation": "Dự đoán có căn cứ ở hiện tại nên dùng “is going to be”."
+  },
+  {
+    "id": 45,
+    "question": "They could take better pictures if they ______ a digital camera.",
+    "options": ["would have", "will have", "had", "are going to have"],
+    "answer": "had",
+    "explanation": "Câu điều kiện loại 2 dùng “if + quá khứ đơn”, nên chọn “had”."
+  },
+  {
+    "id": 46,
+    "question": "If I ______ by the sea, I would go fishing every day.",
+    "options": ["lived", "would live", "live", "will be living"],
+    "answer": "lived",
+    "explanation": "Câu điều kiện loại 2 dùng “if + quá khứ đơn”, nên chọn “lived”."
+  },
+  {
+    "id": 47,
+    "question": "Could I have ______ more apple juice, please?",
+    "options": ["no", "some", "any", "many"],
+    "answer": "some",
+    "explanation": "Trong lời đề nghị hoặc yêu cầu lịch sự, thường dùng “some” thay vì “any”."
+  },
+  {
+    "id": 48,
+    "question": "I can’t drink this tea. There’s too ______ sugar in it.",
+    "options": ["much", "plenty", "many", "lot of"],
+    "answer": "much",
+    "explanation": "“Sugar” là danh từ không đếm được nên dùng “much”."
+  },
+  {
+    "id": 49,
+    "question": "How ______ teachers were there at the seminar yesterday?",
+    "options": ["some", "many", "any", "much"],
+    "answer": "many",
+    "explanation": "“Teachers” là danh từ đếm được số nhiều nên dùng “many”."
+  },
+  {
+    "id": 50,
+    "question": "Don’t leave. There are ______ more things I want to tell you.",
+    "options": ["few", "any", "little", "a few"],
+    "answer": "a few",
+    "explanation": "“Things” là danh từ đếm được số nhiều nên dùng “a few”."
+  },
+  {
+    "id": 51,
+    "question": "He finished my portrait yesterday, but he’s putting ______ at the moment.",
+    "options": ["it mildly", "the final touches", "ideas into my head", "an end to"],
+    "answer": "the final touches",
+    "explanation": "Cụm đúng là “put the final touches”, nghĩa là hoàn thiện những chi tiết cuối."
+  },
+  {
+    "id": 52,
+    "question": "Do you think you could put ______ with the head teacher?",
+    "options": ["an end to", "it mildly", "the final touches", "in a good word for me"],
+    "answer": "in a good word for me",
+    "explanation": "Cụm đúng là “put in a good word for someone”, nghĩa là nói tốt giúp ai."
+  },
+  {
+    "id": 53,
+    "question": "I finally ______ trying to make him change his mind.",
+    "options": ["gave up", "gave out", "gave back", "gave off"],
+    "answer": "gave up",
+    "explanation": "“Give up” nghĩa là từ bỏ."
+  },
+  {
+    "id": 54,
+    "question": "They told me to ______ these leaflets.",
+    "options": ["give off", "give out", "give up", "give in to"],
+    "answer": "give out",
+    "explanation": "“Give out” nghĩa là phát ra hoặc phát cho mọi người."
+  },
+  {
+    "id": 55,
+    "question": "They ______ the meeting because the chairman had to leave.",
+    "options": ["showed off", "paid off", "got off", "put off"],
+    "answer": "put off",
+    "explanation": "“Put off” nghĩa là hoãn lại."
+  },
+  {
+    "id": 56,
+    "question": "Andy loves ______ his brand-new sports car.",
+    "options": ["giving off", "putting off", "showing off", "cooling off"],
+    "answer": "showing off",
+    "explanation": "“Showing off” nghĩa là khoe khoang."
+  },
+  {
+    "id": 57,
+    "question": "I broke my leg as I was ______ the bus yesterday morning.",
+    "options": ["cooling off", "giving off", "paying off", "getting off"],
+    "answer": "getting off",
+    "explanation": "“Get off the bus” nghĩa là xuống xe buýt."
+  },
+  {
+    "id": 58,
+    "question": "According ______ Ned, that’s the best Chinese restaurant in the city.",
+    "options": ["of", "in", "at", "to"],
+    "answer": "to",
+    "explanation": "Cụm đúng là “according to”."
+  },
+  {
+    "id": 59,
+    "question": "Unfortunately, he didn’t succeed ______ getting the job after all.",
+    "options": ["in", "on", "for", "at"],
+    "answer": "in",
+    "explanation": "Cụm đúng là “succeed in + V-ing”."
+  },
+  {
+    "id": 60,
+    "question": "Matt worked so hard that he finally made ______.",
+    "options": ["haste", "it to the top", "the most of", "difficult"],
+    "answer": "it to the top",
+    "explanation": "Cụm “make it to the top” nghĩa là thành công vươn lên vị trí cao."
+  },
+  {
+    "id": 61,
+    "question": "The Carltons have never ______ Denmark before.",
+    "options": ["been to", "gone to", "gone in", "been at"],
+    "answer": "been to",
+    "explanation": "“Have been to” dùng để nói đã từng đến một nơi."
+  },
+  {
+    "id": 62,
+    "question": "Have you ______ thought of studying abroad?",
+    "options": ["since", "before", "never", "ever"],
+    "answer": "ever",
+    "explanation": "Trong câu hỏi về trải nghiệm, thường dùng “ever”."
+  },
+  {
+    "id": 63,
+    "question": "Danny ______ tennis since he was a child.",
+    "options": ["played", "plays", "been playing", "has been playing"],
+    "answer": "has been playing",
+    "explanation": "Có “since” nên dùng hiện tại hoàn thành tiếp diễn."
+  },
+  {
+    "id": 64,
+    "question": "It has been raining heavily ______ our plane took off two hours ago.",
+    "options": ["while", "already", "since", "still"],
+    "answer": "since",
+    "explanation": "“Since” dùng với mốc thời gian bắt đầu trong quá khứ."
+  },
+  {
+    "id": 65,
+    "question": "Mr. Martin ______ go on business trips very often.",
+    "options": ["need", "needs", "doesn’t have", "has to"],
+    "answer": "has to",
+    "explanation": "“Has to” diễn tả sự cần thiết hoặc bắt buộc."
+  },
+  {
+    "id": 66,
+    "question": "We can’t meet Jack today. We ______ to work overtime.",
+    "options": ["have", "must", "had better", "would rather"],
+    "answer": "have",
+    "explanation": "Chỗ trống cần “have” để tạo thành cấu trúc “have to work overtime”."
+  },
+  {
+    "id": 67,
+    "question": "I’d ______ join you for dinner than stay at home.",
+    "options": ["rather", "had better", "need", "must"],
+    "answer": "rather",
+    "explanation": "Cấu trúc đúng là “would rather ... than ...”."
+  },
+  {
+    "id": 68,
+    "question": "Luckily, we ______ wait for them. We can leave right now.",
+    "options": ["don’t have", "don’t need", "needn’t", "not have to"],
+    "answer": "needn’t",
+    "explanation": "“Needn’t” nghĩa là không cần phải."
+  },
+  {
+    "id": 69,
+    "question": "She ______ still be at home. I talked to her on the phone a couple of minutes ago.",
+    "options": ["has to", "better", "must", "needs"],
+    "answer": "must",
+    "explanation": "“Must” dùng để suy đoán chắc chắn dựa trên căn cứ hiện có."
+  },
+  {
+    "id": 70,
+    "question": "I ______ see an optician. I can’t see very clearly lately.",
+    "options": ["would rather", "may not", "might not", "had better"],
+    "answer": "had better",
+    "explanation": "“Had better” dùng để khuyên ai đó nên làm gì."
+  },
+  {
+    "id": 71,
+    "question": "My brother came ______ the flu last week and hasn’t recovered yet.",
+    "options": ["across", "apart", "up with", "down with"],
+    "answer": "down with",
+    "explanation": "Cụm đúng là “come down with”, nghĩa là bị bệnh."
+  },
+  {
+    "id": 72,
+    "question": "Why don’t you ask Felix? He always comes ______ great ideas.",
+    "options": ["off", "up with", "down with", "apart"],
+    "answer": "up with",
+    "explanation": "Cụm đúng là “come up with”, nghĩa là nghĩ ra."
+  },
+  {
+    "id": 73,
+    "question": "They haven't cleaned their attic ______ in the future.",
+    "options": ["for ages", "in the future", "in common", "out of the ordinary"],
+    "answer": "for ages",
+    "explanation": "“For ages” nghĩa là trong một thời gian rất dài. Câu này có vẻ bị lỗi đề, nhưng với các đáp án cho sẵn thì “for ages” là phù hợp nhất."
+  },
+  {
+    "id": 74,
+    "question": "I really had no intention ______ insulting your father.",
+    "options": ["of", "for", "on", "at"],
+    "answer": "of",
+    "explanation": "Cấu trúc đúng là “intention of + V-ing”."
+  },
+  {
+    "id": 75,
+    "question": "They aren’t interested ______ buying Steve’s country house.",
+    "options": ["to", "on", "in", "for"],
+    "answer": "in",
+    "explanation": "Cụm đúng là “interested in”."
+  },
+  {
+    "id": 76,
+    "question": "We must ______ into consideration everything he said.",
+    "options": ["regard", "give", "think", "take"],
+    "answer": "take",
+    "explanation": "Cụm đúng là “take into consideration”, nghĩa là cân nhắc."
+  },
+  {
+    "id": 77,
+    "question": "We’re looking ______ seeing our grandparents.",
+    "options": ["after", "out", "for", "forward to"],
+    "answer": "forward to",
+    "explanation": "Cụm đúng là “look forward to + V-ing”, nghĩa là mong đợi."
+  },
+  {
+    "id": 78,
+    "question": "Brad ______ his best to please his guests yesterday evening.",
+    "options": ["took", "did", "brought", "made"],
+    "answer": "did",
+    "explanation": "Cụm đúng là “do one’s best”, nghĩa là cố gắng hết sức."
+  },
+  {
+    "id": 79,
+    "question": "Eating more fruit and vegetables will do you ______.",
+    "options": ["badly", "well", "good", "best"],
+    "answer": "good",
+    "explanation": "Cụm đúng là “do somebody good”, nghĩa là có lợi cho ai."
+  },
+  {
+    "id": 80,
+    "question": "I’m afraid that the new sales representative doesn’t ______ the manager.",
+    "options": ["get by", "get through", "get across", "get on well with"],
+    "answer": "get on well with",
+    "explanation": "Cụm đúng là “get on well with”, nghĩa là hòa hợp với ai."
+  },
+  {
+    "id": 81,
+    "question": "I could ______ killed if the driver hadn’t stopped quickly.",
+    "options": ["have", "have been", "to have", "to have been"],
+    "answer": "have been",
+    "explanation": "Cấu trúc đúng là “could have been + past participle”."
+  },
+  {
+    "id": 82,
+    "question": "If the meat ______ so tough, the children would have eaten it.",
+    "options": ["hadn’t been", "hasn’t been", "wouldn’t be", "wouldn’t have been"],
+    "answer": "hadn’t been",
+    "explanation": "Câu điều kiện loại 3 dùng “if + had + V3”."
+  },
+  {
+    "id": 83,
+    "question": "If you hadn’t helped me, I ______ finished on time.",
+    "options": ["didn’t", "wouldn’t", "wouldn’t be", "wouldn’t have"],
+    "answer": "wouldn’t have",
+    "explanation": "Câu điều kiện loại 3 dùng “wouldn’t have + V3”."
+  },
+  {
+    "id": 84,
+    "question": "He wouldn’t have believed me if he ______ it with his own eyes.",
+    "options": ["haven’t seen", "wouldn’t see", "hadn’t seen", "hadn’t been seen"],
+    "answer": "hadn’t seen",
+    "explanation": "Câu điều kiện loại 3 dùng “if + had + V3”."
+  },
+  {
+    "id": 85,
+    "question": "I wish I ______ answer all his questions.",
+    "options": ["can", "could", "had", "have to"],
+    "answer": "could",
+    "explanation": "Sau “wish” để diễn tả điều không có thật ở hiện tại, thường dùng “could”."
+  },
+  {
+    "id": 86,
+    "question": "If only the fire brigade ______ earlier.",
+    "options": ["arrives", "has arrived", "was arriving", "had arrived"],
+    "answer": "had arrived",
+    "explanation": "“If only” diễn tả sự tiếc nuối trong quá khứ nên dùng quá khứ hoàn thành."
+  },
+  {
+    "id": 87,
+    "question": "He wishes he ______ so many mistakes.",
+    "options": ["made", "hadn’t made", "hasn’t made", "had made"],
+    "answer": "hadn’t made",
+    "explanation": "“Wishes” về điều tiếc nuối trong quá khứ dùng quá khứ hoàn thành."
+  },
+  {
+    "id": 88,
+    "question": "______ these two books have the information I need.",
+    "options": ["None", "Not any", "Neither of", "Not of"],
+    "answer": "Neither of",
+    "explanation": "“Neither of” nghĩa là không cuốn nào trong hai cuốn."
+  },
+  {
+    "id": 89,
+    "question": "______ Ian and Gerry took part in the competition.",
+    "options": ["Both", "Either", "Neither", "All"],
+    "answer": "Both",
+    "explanation": "“Both” dùng khi nói cả hai người."
+  },
+  {
+    "id": 90,
+    "question": "______ four of my friends have their own computer.",
+    "options": ["None", "All", "Either", "Both"],
+    "answer": "All",
+    "explanation": "“All” dùng khi nói toàn bộ bốn người bạn."
+  },
+  {
+    "id": 91,
+    "question": "I thought I knew him very well, but it would never have gone ______ that he would decide to live abroad.",
+    "options": ["wild", "red", "bananas", "through my mind"],
+    "answer": "through my mind",
+    "explanation": "Cụm đúng là “go through someone’s mind”, nghĩa là xuất hiện trong suy nghĩ."
+  },
+  {
+    "id": 92,
+    "question": "Liam and Ken have checked it. I’m sure nothing can ______.",
+    "options": ["go wrong", "go wild", "go red", "go over the top"],
+    "answer": "go wrong",
+    "explanation": "Cụm đúng là “nothing can go wrong”, nghĩa là không có gì có thể xảy ra sai sót."
+  },
+  {
+    "id": 93,
+    "question": "Dean is very shy. He always goes ______ when somebody talks to him.",
+    "options": ["bad", "red", "wrong", "through his mind"],
+    "answer": "red",
+    "explanation": "“Go red” nghĩa là đỏ mặt."
+  },
+  {
+    "id": 94,
+    "question": "It’s very hot in here. Don't leave the fish out of the fridge because it will ______.",
+    "options": ["go wild", "go bananas", "go bad", "go over the top"],
+    "answer": "go bad",
+    "explanation": "“Go bad” nghĩa là bị hỏng hoặc bị ôi."
+  },
+  {
+    "id": 95,
+    "question": "At ______ you’ve got your own bedroom now that you moved house.",
+    "options": ["last", "late", "lately", "later"],
+    "answer": "last",
+    "explanation": "Cụm đúng là “at last”, nghĩa là cuối cùng."
+  },
+  {
+    "id": 96,
+    "question": "I’ve noticed that Helen hasn’t been feeling very well ______.",
+    "options": ["latest", "later", "late", "lately"],
+    "answer": "lately",
+    "explanation": "“Lately” nghĩa là gần đây."
+  },
+  {
+    "id": 97,
+    "question": "I try not to have dinner ______ at night.",
+    "options": ["last", "late", "latest", "least"],
+    "answer": "late",
+    "explanation": "“Late” dùng để chỉ thời gian muộn."
+  },
+  {
+    "id": 98,
+    "question": "You could at ______ phone me to let me know that you wouldn’t come.",
+    "options": ["later", "late", "least", "latest"],
+    "answer": "least",
+    "explanation": "Cụm đúng là “at least”, nghĩa là ít nhất."
+  },
+  {
+    "id": 99,
+    "question": "I can’t stand him anymore. I’m going to put things straight ______.",
+    "options": ["all over", "at all", "all the same", "once and for all"],
+    "answer": "once and for all",
+    "explanation": "“Once and for all” nghĩa là dứt điểm một lần cho xong."
+  },
+  {
+    "id": 100,
+    "question": "______ his comments on their behaviour seemed fair.",
+    "options": ["All over", "All in all", "At all", "All year round"],
+    "answer": "All in all",
+    "explanation": "“All in all” nghĩa là nhìn chung hoặc xét tổng thể."
+  }
+]

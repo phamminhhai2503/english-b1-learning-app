@@ -1,0 +1,38 @@
+[
+  {
+    "id": 12,
+    "title": "Describe an activity you do when you are alone",
+    "prompt": "Describe an activity you do when you are alone in your free time. What activity is it? Is it easy or difficult to do? How do you feel when you do it? Are there any benefits of doing it?",
+    "sampleAnswer": "The activity I do when I am alone is reading books. It is easy to do. I need a quiet place and a good book. I feel calm and happy when I read a good book. It helps me relax and forget my problems. Reading books helps me understand more about the world. It makes my mind more creative."
+  },
+  {
+    "id": 13,
+    "title": "Describe your favorite photograph",
+    "prompt": "Describe your favorite photograph. What photograph is it? When and where was it taken? How long have you had it? Why do you like it?",
+    "sampleAnswer": "My favorite photo is the one of me and my parents. It was taken at a park near our house last year. In the photo, we are smiling and standing close together. The weather was sunny, and the park looked beautiful. I like this photo because it reminds me of a happy time with my family. Every time I look at it, I feel warm and loved."
+  },
+  {
+    "id": 14,
+    "title": "Describe a childhood friend",
+    "prompt": "Describe a childhood friend of yours. What is his/her name? What did he/she look like? What was he/she like? Why did you like him/her? What did you like to do together?",
+    "sampleAnswer": "I will talk about my childhood friend. He is… He was tall and thin at that time/[when we were young]. He had black hair and a bright smile. He was kind and friendly. He helped other classmates. I liked him because I felt happy and safe when I was with him. We played soccer together after school. Sometimes we did homework in the evening."
+  },
+  {
+    "id": 15,
+    "title": "Describe an occasion when you wore formal clothes",
+    "prompt": "Describe an occasion when you wore formal clothes. When and where did you wear formal clothes? What did you wear exactly? How did you feel when you wore formal clothes? Would you like to wear it again?",
+    "sampleAnswer": "I wore formal clothes when I gave a presentation in my class last week. That day, I wanted to look serious and confident. I wore a white shirt, black pants, and black shoes. [a white dress and high heels] I felt more professional when wearing formal clothes. [My teacher said I looked nice and gave me a good score.] I would like to wear formal clothes again, especially for important events like interviews or presentations."
+  },
+  {
+    "id": 16,
+    "title": "Describe a time you changed your plan",
+    "prompt": "Describe a time you changed your plan. What plan was it? Why did you change it? What did you do to change that plan? Did you get any better results with your change?",
+    "sampleAnswer": "Last Sunday, my friends and I planned to have a picnic in the park. We wanted to play games and take photos together. However, on that day, it started to rain heavily. We couldn’t go outside. Instead, I stayed at home and watched a movie. I think it was a good change because I could rest and spend time with my family."
+  },
+  {
+    "id": 17,
+    "title": "Describe a film or TV program that made you laugh",
+    "prompt": "Describe a film or TV program that made you laugh. What film or TV program was it? What was it about? Why did it make you laugh? Do you want to watch it again?",
+    "sampleAnswer": "One movie that made me laugh a lot is Tom and Jerry. It is a cartoon about a cat named Tom and a mouse named Jerry. Tom always tries to catch Jerry, but Jerry is very smart and always escapes. The movie is funny because Tom always gets hurt in silly ways. Jerry is small but very clever, and that makes me laugh a lot. I want to watch the movie again because it makes me happy and relaxed."
+  }
+]

@@ -1,0 +1,522 @@
+[
+{
+    "id": 1,
+    "image": "assets/images/signs/signs_1.png",
+    "question": "What does this sign mean?",
+    "options": [
+      "Always keep this door open.",
+      "Do not park in front of this entrance.",
+      "Permission is needed to park here.",
+      "Only use this entrance in an emergency."
+    ],
+    "answer": "Do not park in front of this entrance.",
+    "explanation": "Biển báo yêu cầu giữ lối vào luôn thông thoáng, không được đậu xe chắn phía trước."
+  },
+  {
+    "id": 2,
+    "image": "assets/images/signs/signs_2.png",
+    "question": "What does this sign mean?",
+    "options": [
+      "Drinks cannot be ordered at the bar.",
+      "Use this machine when the bar is closed.",
+      "There is a drinks machine in the bar.",
+      "This machine is not working at the moment."
+    ],
+    "answer": "This machine is not working at the moment.",
+    "explanation": "Biển báo ghi máy bị hỏng, nên hiện tại không thể sử dụng."
+  },
+  {
+    "id": 3,
+    "image": "assets/images/signs/signs_3.png",
+    "question": "What does this sign mean?",
+    "options": [
+      "The librarian needs to see your books before you go.",
+      "Make sure you take all your books with you.",
+      "Return your books before you leave the library.",
+      "The librarian will show you where to put your books."
+    ],
+    "answer": "Return your books before you leave the library.",
+    "explanation": "Biển báo yêu cầu khi rời thư viện thì phải trả lại toàn bộ sách."
+  },
+  {
+    "id": 4,
+    "image": "assets/images/signs/signs_4.png",
+    "question": "What does this sign mean?",
+    "options": [
+      "This room cannot be used at present.",
+      "This door must always be kept locked.",
+      "Lock the room when it is not being used.",
+      "Keep the key to this door in the room."
+    ],
+    "answer": "Lock the room when it is not being used.",
+    "explanation": "Biển báo ghi rõ hãy khóa cửa khi phòng không được sử dụng."
+  },
+  {
+    "id": 5,
+    "image": "assets/images/signs/signs_5.png",
+    "question": "What does this sign mean?",
+    "options": [
+      "Supersaver tickets can be used every day except Fridays.",
+      "You need a special ticket to travel on a Friday.",
+      "Supersaver tickets cannot be bought before the weekend.",
+      "You can save money by travelling on a Friday."
+    ],
+    "answer": "Supersaver tickets can be used every day except Fridays.",
+    "explanation": "Biển báo nói vé Supersaver không dùng được vào thứ Sáu, tức là dùng được các ngày khác."
+  },
+  {
+    "id": 6,
+    "image": "assets/images/signs/signs_6.png",
+    "question": "What does this sign mean?",
+    "options": [
+      "Do not forget to put your luggage outside your room.",
+      "Keep the corridor clear of luggage.",
+      "Bags left in the corridor will be removed.",
+      "Bags will be collected from the corridor."
+    ],
+    "answer": "Keep the corridor clear of luggage.",
+    "explanation": "Biển báo yêu cầu không để túi xách ngoài hành lang, phải giữ hành lang thông thoáng."
+  },
+  {
+    "id": 7,
+    "image": "assets/images/signs/signs_7.png",
+    "question": "What does this sign mean?",
+    "options": [
+      "Wait upstairs to see the nurse.",
+      "Go upstairs to make an appointment with the nurse.",
+      "The nurse will tell you when it is your turn.",
+      "The nurse can only see patients with appointments."
+    ],
+    "answer": "The nurse can only see patients with appointments.",
+    "explanation": "Biển báo nói nếu có lịch hẹn với y tá thì hãy dùng phòng chờ ở tầng trên, ngụ ý y tá chỉ tiếp bệnh nhân có hẹn."
+  },
+{
+  "id": 8,
+  "image": "assets/images/signs/signs_8.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Do not touch the fruit before paying for it.",
+    "Damaged fruit must be paid for.",
+    "Self-service fruit is cheaper.",
+    "Choose your fruit and then pay for it."
+  ],
+  "answer": "Choose your fruit and then pay for it.",
+  "explanation": "Biển báo yêu cầu khách tự chọn trái cây rồi mang vào trong cửa hàng để thanh toán."
+},
+{
+  "id": 9,
+  "image": "assets/images/signs/signs_9.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Please be quiet while people are taking their examination.",
+    "Do not talk to the examiner.",
+    "Do not speak during the examination.",
+    "The examiner will tell you when you can talk."
+  ],
+  "answer": "Please be quiet while people are taking their examination.",
+  "explanation": "Biển báo yêu cầu giữ yên lặng vì đang có người làm bài thi."
+},
+{
+  "id": 10,
+  "image": "assets/images/signs/signs_10.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Bring your computer here for repairs.",
+    "We will not mend computers bought from other shops.",
+    "We charge to repair computers not bought here.",
+    "Computers bought here never need repairing."
+  ],
+  "answer": "We will not mend computers bought from other shops.",
+  "explanation": "Biển báo nói chỉ sửa máy tính mua tại cửa hàng này, không sửa máy từ nơi khác."
+},
+{
+  "id": 11,
+  "image": "assets/images/signs/signs_11.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "The entrance to the bank is through the library.",
+    "The travel agency has moved its entrance.",
+    "The library is now a travel agency.",
+    "The travel agency is no longer open."
+  ],
+  "answer": "The travel agency has moved its entrance.",
+  "explanation": "Biển báo thông báo lối vào của công ty du lịch đã được chuyển sang vị trí khác."
+},
+{
+  "id": 12,
+  "image": "assets/images/signs/signs_12.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "This list shows who has been chosen to go on the trip.",
+    "This list should be signed by people wanting to go on the trip.",
+    "Check the list for information if you are going on the trip.",
+    "If you find your name on this list, you can go on the trip."
+  ],
+  "answer": "This list should be signed by people wanting to go on the trip.",
+  "explanation": "Biển báo yêu cầu ai muốn đi chuyến đi thì phải ghi tên vào danh sách."
+},
+{
+  "id": 13,
+  "image": "assets/images/signs/signs_13.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "The new ticket office is now open.",
+    "There will be two ticket offices after 17 September.",
+    "This ticket office will be closed for one day.",
+    "This ticket office will be closed on 16 September."
+  ],
+  "answer": "This ticket office will be closed on 16 September.",
+  "explanation": "Biển báo cho biết phòng vé này sẽ đóng cửa vào ngày 16/9 và từ ngày 17/9 sẽ sử dụng phòng vé mới."
+},
+{
+  "id": 14,
+  "image": "assets/images/signs/signs_14.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "If you spend less than £10, you cannot pay by credit card.",
+    "We prefer cash for large sales.",
+    "We make a charge if you pay by credit card.",
+    "If you spend more than £10, you must pay by credit card."
+  ],
+  "answer": "If you spend less than £10, you cannot pay by credit card.",
+  "explanation": "Biển báo nói không chấp nhận thanh toán bằng thẻ nếu số tiền dưới 10 bảng."
+},
+{
+  "id": 15,
+  "image": "assets/images/signs/signs_15.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Dogs must wait outside.",
+    "Dogs must walk with their owners.",
+    "Dogs must be kept on a chain.",
+    "Dogs must be held."
+  ],
+  "answer": "Dogs must be held.",
+  "explanation": "Biển báo yêu cầu phải bế chó lên, không được để chó đi tự do."
+},
+{
+  "id": 16,
+  "image": "assets/images/signs/signs_16.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Everything is cheaper this week.",
+    "No extra charges next week.",
+    "Usual prices this week.",
+    "Cheaper prices next week."
+  ],
+  "answer": "Everything is cheaper this week.",
+  "explanation": "Biển báo ghi tất cả các mặt hàng đều được giảm giá trong tuần này."
+},
+{
+  "id": 17,
+  "image": "assets/images/signs/signs_17.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "You can send your groceries from here.",
+    "You can store your groceries here.",
+    "You can get your free groceries here.",
+    "You can have your groceries sent to you."
+  ],
+  "answer": "You can have your groceries sent to you.",
+  "explanation": "Biển báo cho biết cửa hàng có dịch vụ giao hàng thực phẩm đến tận nhà."
+},
+{
+  "id": 18,
+  "image": "assets/images/signs/signs_18.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Cleaning now costs twice as much.",
+    "Cleaning costs are now cheaper.",
+    "Cleaning costs are going up.",
+    "Cleaning costs will stay the same."
+  ],
+  "answer": "Cleaning costs are now cheaper.",
+  "explanation": "Biển báo nói rằng giặt 2 áo khoác với giá của 1, tức là chi phí giặt rẻ hơn."
+},
+{
+  "id": 19,
+  "image": "assets/images/signs/signs_19.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "You must pay to park here.",
+    "If you use the train you can park here.",
+    "This place is for railway officials.",
+    "No one is allowed to park here"
+  ],
+  "answer": "If you use the train you can park here.",
+  "explanation": "Biển báo cho biết chỉ những người sử dụng nhà ga (đi tàu) mới được phép đậu xe tại đây."
+},
+{
+  "id": 20,
+  "image": "assets/images/signs/signs_20.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "You can buy your ticket during the journey.",
+    "You pay when you get off.",
+    "You have to book a seat before travelling.",
+    "You have to buy a ticket before your journey."
+  ],
+  "answer": "You have to buy a ticket before your journey.",
+  "explanation": "Biển báo yêu cầu hành khách phải mua vé trước khi bắt đầu hành trình (trước khi lên tàu/xe)."
+},
+{
+  "id": 21,
+  "image": "assets/images/signs/signs_21.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Passengers are allowed to change their seats.",
+    "Passengers are allowed to eat snacks on the bus.",
+    "Passengers can make noise on the bus.",
+    "Passengers have to follow the rules."
+  ],
+  "answer": "Passengers have to follow the rules.",
+  "explanation": "Biển báo liệt kê các quy định trên xe buýt, yêu cầu hành khách phải tuân theo."
+},
+{
+  "id": 22,
+  "image": "assets/images/signs/signs_22.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Knock the door if you want to enter when it does not often.",
+    "Open the door when you want to enter.",
+    "You are not allowed to enter when the door does not open.",
+    "You are not allowed to enter if the door is open."
+  ],
+  "answer": "You are not allowed to enter when the door does not open.",
+  "explanation": "Biển báo cho biết nếu cửa không mở thì không được vào bên trong."
+},
+{
+  "id": 23,
+  "image": "assets/images/signs/signs_23.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "It's unsafe to go ahead because the area is flooding.",
+    "You will be drown if you go around.",
+    "You should go ahead if you want to avoid flooding area.",
+    "If you can swim, you can go ahead."
+  ],
+  "answer": "It's unsafe to go ahead because the area is flooding.",
+  "explanation": "Biển báo cảnh báo phía trước đang bị ngập nước, không an toàn để tiếp tục đi nên cần quay đầu lại."
+},
+{
+  "id": 24,
+  "image": "assets/images/signs/signs_24.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "This is dogs’ play area.",
+    "Children can play with dogs in this area.",
+    "Dogs are not allowed to enter this area.",
+    "People can take their dogs with them in this area."
+  ],
+  "answer": "Dogs are not allowed to enter this area.",
+  "explanation": "Biển báo ghi rõ 'No dogs allowed', nghĩa là không được mang chó vào khu vực này."
+},
+{
+  "id": 25,
+  "image": "assets/images/signs/signs_25.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "People must wear long sleeve shirt and trousers in this area.",
+    "People must wear casual clothes in this area except long sleeve shirt and trousers.",
+    "People have to wear formal clothes in this area except long sleeve shirt and trousers.",
+    "Long sleeve shirt and trousers should be worn in this area."
+  ],
+  "answer": "People must wear long sleeve shirt and trousers in this area.",
+  "explanation": "Biển báo yêu cầu mọi người phải mặc áo tay dài và quần dài trong khu vực này."
+},
+{
+  "id": 26,
+  "image": "assets/images/signs/signs_26.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Pay attention to the kids when you are playing.",
+    "You have to slow down your speed and be careful when you are driving in this area.",
+    "You are not allowed to drive in this area.",
+    "Driving is prohibited in this area."
+  ],
+  "answer": "You have to slow down your speed and be careful when you are driving in this area.",
+  "explanation": "Biển báo 'SLOW – CHILDREN AT PLAY' cảnh báo khu vực có trẻ em, yêu cầu giảm tốc độ và lái xe cẩn thận."
+},
+{
+  "id": 27,
+  "image": "assets/images/signs/signs_27.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "This area is for smoking only.",
+    "This area is for eating only.",
+    "This area is for drinking only.",
+    "You are not allowed to smoke, eat and drink in this area."
+  ],
+  "answer": "You are not allowed to smoke, eat and drink in this area.",
+  "explanation": "Biển báo có biểu tượng cấm hút thuốc, ăn và uống, nghĩa là không được thực hiện các hành động này trong khu vực."
+},
+{
+  "id": 28,
+  "image": "assets/images/signs/signs_28.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Only adults are permitted to drink alcohol on this site.",
+    "People under 18 are not allowed to drink alcohol on this site.",
+    "No one can drink alcohol on this site.",
+    "You are permitted to buy alcohol on this site."
+  ],
+  "answer": "No one can drink alcohol on this site.",
+  "explanation": "Biển báo có biểu tượng cấm rượu, nghĩa là không ai được phép uống rượu trong khu vực này."
+},
+{
+  "id": 29,
+  "image": "assets/images/signs/signs_29.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "People will give you a free drive when they see this sign.",
+    "Drivers won’t stop when you want to hitchhike here.",
+    "You are allowed to hitchhike when you see this sign.",
+    "Hitchhiking is accepted here."
+  ],
+  "answer": "Drivers won’t stop when you want to hitchhike here.",
+  "explanation": "Biển báo 'No hitchhiking' nghĩa là không được xin đi nhờ xe, tài xế sẽ không dừng lại."
+},
+{
+  "id": 30,
+  "image": "assets/images/signs/signs_30.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Parents and visitors are free to enter the school.",
+    "Visitors have to sign in at the office to enter the school.",
+    "Parents don’t have to sign in at the office to enter the school.",
+    "All parents and visitors have to sign in to receive a pass at the office in order to enter the school."
+  ],
+  "answer": "All parents and visitors have to sign in to receive a pass at the office in order to enter the school.",
+  "explanation": "Biển báo yêu cầu tất cả phụ huynh và khách phải đăng ký tại văn phòng và nhận thẻ trước khi vào trường."
+},
+{
+  "id": 31,
+  "image": "assets/images/signs/signs_31.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Students can use their cell phones outside the school campus.",
+    "Students are allowed to use cell phones in the school campus.",
+    "Students have to submit their cell phones at the school gate before they enter the school campus.",
+    "Parents should keep their children's cell phones before their children enter the school."
+  ],
+  "answer": "Students can use their cell phones outside the school campus.",
+  "explanation": "Biển báo yêu cầu học sinh phải tắt điện thoại trước khi vào trường, nên chỉ được dùng điện thoại bên ngoài khuôn viên trường."
+},
+{
+  "id": 32,
+  "image": "assets/images/signs/signs_32.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "There is no parking left in this area.",
+    "This parking zone is used only for buses.",
+    "Bus drivers are not allowed to stop here.",
+    "This parking zone is used only for loading goods."
+  ],
+  "answer": "This parking zone is used only for buses.",
+  "explanation": "Biển báo 'No parking bus loading zone' nghĩa là khu vực này chỉ dành cho xe buýt dừng/đỗ."
+},
+{
+  "id": 33,
+  "image": "assets/images/signs/signs_33.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "It won’t hurt if you are falling down.",
+    "This area of work is safe.",
+    "You will be in danger of falling if you don’t work at a safe distance and don’t use safety belt.",
+    "You don’t need to use a safety belt when you work on this site."
+  ],
+  "answer": "You will be in danger of falling if you don’t work at a safe distance and don’t use safety belt.",
+  "explanation": "Biển cảnh báo nguy hiểm rơi ngã, yêu cầu giữ khoảng cách an toàn và sử dụng dây an toàn."
+},
+{
+  "id": 34,
+  "image": "assets/images/signs/signs_34.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Drivers can park in this area after 6 PM on Saturday and Sunday.",
+    "Parking time in this area is from 7 AM to 6 PM Monday to Friday.",
+    "Drivers are allowed to park their cars in this area before 7 AM and after 6 PM.",
+    "Parking is not allowed in this area from 7 AM to 6 PM Monday through Friday."
+  ],
+  "answer": "Parking is not allowed in this area from 7 AM to 6 PM Monday through Friday.",
+  "explanation": "Biển báo cho biết cấm đỗ xe trong khung giờ 7 giờ sáng đến 6 giờ chiều từ thứ Hai đến thứ Sáu."
+},
+{
+  "id": 35,
+  "image": "assets/images/signs/signs_35.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Avoid smoking and naked lights because this area is highly flammable.",
+    "This is a non-smoker area.",
+    "Naked lights aren’t allowed to be used in this area.",
+    "Smokers should use naked lights to light their cigarettes in this area."
+  ],
+  "answer": "Avoid smoking and naked lights because this area is highly flammable.",
+  "explanation": "Biển cảnh báo khu vực dễ cháy, yêu cầu không hút thuốc và không sử dụng lửa trần."
+},
+{
+  "id": 36,
+  "image": "assets/images/signs/signs_36.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "We cannot deliver papers over the weekend.",
+    "We plan to stop delivering papers five days from now.",
+    "You must tell us five days early if you don’t want papers.",
+    "Please tell us if you don’t want papers at the weekend."
+  ],
+  "answer": "You must tell us five days early if you don’t want papers.",
+  "explanation": "Biển báo yêu cầu phải thông báo trước 5 ngày nếu bạn không muốn nhận báo."
+},
+{
+  "id": 37,
+  "image": "assets/images/signs/signs_37.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Accident patients are not admitted here.",
+    "The emergency department is closed.",
+    "This hospital only accepts accident patients.",
+    "Contact this hospital in an emergency."
+  ],
+  "answer": "Accident patients are not admitted here.",
+  "explanation": "Biển báo nói bệnh viện này không có khoa cấp cứu, nên bệnh nhân cấp cứu hoặc tai nạn sẽ không được tiếp nhận tại đây."
+},
+{
+  "id": 38,
+  "image": "assets/images/signs/signs_38.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Family tickets save time.",
+    "Family tickets save money.",
+    "Family tickets may be more expensive.",
+    "Family tickets have gone down in price."
+  ],
+  "answer": "Family tickets save money.",
+  "explanation": "Cụm 'cuts cost' nghĩa là giảm chi phí, tức là vé gia đình giúp tiết kiệm tiền."
+},
+{
+  "id": 39,
+  "image": "assets/images/signs/signs_39.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "Many people don’t want a motorway.",
+    "Building the motorway starts today.",
+    "People are going to talk about building a motorway.",
+    "Everyone travelling on the motorway should meet here."
+  ],
+  "answer": "People are going to talk about building a motorway.",
+  "explanation": "Biển báo thông báo có buổi họp công khai để thảo luận về việc xây dựng đường cao tốc."
+},
+{
+  "id": 40,
+  "image": "assets/images/signs/signs_40.png",
+  "question": "What does this sign mean?",
+  "options": [
+    "You cannot bring your luggage into the dining room.",
+    "You must look after your things yourself.",
+    "You should give your things to the manager.",
+    "You should lock things in your suitcase."
+  ],
+  "answer": "You must look after your things yourself.",
+  "explanation": "Biển báo nói ban quản lý không chịu trách nhiệm với tài sản để lại trong phòng ăn, nên bạn phải tự giữ đồ của mình."
+}
+]

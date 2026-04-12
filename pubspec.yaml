@@ -1,0 +1,30 @@
+name: english_app
+description: "App học tiếng Anh đơn giản"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.2.3
+  speech_to_text: ^7.0.0
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/signs/signs_questions.json
+    - assets/data/grammar/grammar_questions.json
+    - assets/data/speaking/speaking_data.json
+    - assets/images/signs/
