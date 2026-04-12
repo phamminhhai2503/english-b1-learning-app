@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# english-b1-learning-app
+A web application for learning and practicing English at B1 level.
+>>>>>>> a52a026e0ce10bd97f93937628ad33e091ef2d1c
