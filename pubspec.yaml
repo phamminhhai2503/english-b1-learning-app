@@ -27,4 +27,5 @@ flutter:
     - assets/data/signs/signs_questions.json
     - assets/data/grammar/grammar_questions.json
     - assets/data/speaking/speaking_data.json
+    - assets/data/sentence_transformation/st_questions.json
     - assets/images/signs/

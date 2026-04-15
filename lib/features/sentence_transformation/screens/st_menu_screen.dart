@@ -1,16 +1,23 @@
 import 'package:flutter/material.dart';
 
-import 'signs_exam_screen.dart';
-import 'signs_study_screen.dart';
+import 'st_exam_screen.dart';
+import 'st_study_screen.dart';
 
-class SignsMenuScreen extends StatelessWidget {
-  const SignsMenuScreen({super.key});
+class STMenuScreen extends StatelessWidget {
+  const STMenuScreen({super.key});
+
+  void _goTo(BuildContext context, Widget screen) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (_) => screen),
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Signs'),
+        title: const Text('Sentence Transformation'),
         centerTitle: true,
       ),
       body: Padding(
@@ -21,30 +28,20 @@ class SignsMenuScreen extends StatelessWidget {
               icon: Icons.school_rounded,
               iconColor: const Color(0xFF2563EB),
               iconBackground: const Color(0xFFEFF6FF),
-              title: 'Học Signs',
+              title: 'Học Transformation',
               subtitle:
-                  'Xem đáp án ngay, có giải thích, có nhóm biển báo và lưu tiến độ đang học.',
-              onTap: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (_) => const SignsStudyScreen()),
-                );
-              },
+                  'Viết câu, kiểm tra ngay từng câu, xem đáp án đúng và giải thích.',
+              onTap: () => _goTo(context, const STStudyScreen()),
             ),
             const SizedBox(height: 16),
             _MenuCard(
               icon: Icons.assignment_rounded,
               iconColor: const Color(0xFFDC2626),
               iconBackground: const Color(0xFFFEF2F2),
-              title: 'Thi Signs',
+              title: 'Thi Transformation',
               subtitle:
-                  'Làm đề ngẫu nhiên như bài kiểm tra, không hiện giải thích ngay, cuối bài có thống kê kết quả.',
-              onTap: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (_) => const SignsExamScreen()),
-                );
-              },
+                  'Làm hết bài rồi mới nộp, chấm điểm toàn bộ một lần như bài kiểm tra.',
+              onTap: () => _goTo(context, const STExamScreen()),
             ),
           ],
         ),

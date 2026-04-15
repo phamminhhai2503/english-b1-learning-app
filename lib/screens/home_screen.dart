@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../features/grammar/screens/grammar_menu_screen.dart';
+import '../features/sentence_transformation/screens/st_menu_screen.dart';
 import '../features/signs/screens/signs_menu_screen.dart';
 import '../features/speaking/screens/speaking_topics_screen.dart';
 
@@ -52,6 +53,15 @@ class HomeScreen extends StatelessWidget {
                       icon: Icons.record_voice_over_rounded,
                       iconBackground: const Color(0xFF8B5CF6),
                       onTap: () => _goTo(context, const SpeakingTopicsScreen()),
+                    ),
+                    const SizedBox(height: 16),
+                    _MenuCard(
+                      title: 'Sentence Transformation',
+                      subtitle:
+                          'Viết lại câu theo yêu cầu, kiểm tra ngay hoặc nộp bài cuối, có chỉ ra lỗi sai.',
+                      icon: Icons.edit_note_rounded,
+                      iconBackground: const Color(0xFF059669),
+                      onTap: () => _goTo(context, const STMenuScreen()),
                     ),
                     const SizedBox(height: 22),
                     const _QuickInfoCard(),
@@ -280,7 +290,7 @@ class _QuickInfoCard extends StatelessWidget {
                 ),
                 SizedBox(height: 4),
                 Text(
-                  'Nên học Grammar trước, sau đó học Signs theo chế độ học rồi mới chuyển sang chế độ thi và Speaking.',
+                  'Nên học Grammar trước, sau đó học Signs và Sentence Transformation theo chế độ học rồi mới chuyển sang chế độ thi.',
                   style: TextStyle(
                     fontSize: 13.5,
                     height: 1.45,

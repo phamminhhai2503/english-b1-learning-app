@@ -1,0 +1,202 @@
+[
+  {
+    "id": 65,
+    "sentence": "I was so ill that I didn’t go to school. (too)",
+    "instruction": "I was ........................................................",
+    "answer": "I was too ill to go to school.",
+    "explanation": "Cấu trúc đổi từ 'so ... that' sang 'too ... to'. 'so ill that I didn’t go to school' tương đương với 'too ill to go to school'.",
+    "section": "Grammar - Too / Enough"
+  },
+  {
+    "id": 66,
+    "sentence": "I’m much better at this job than Gordo is. (than)",
+    "instruction": "Gordon is ........................................................ I am at this job.",
+    "answer": "Gordon is much worse than I am at this job.",
+    "explanation": "Đổi chiều phép so sánh: 'I’m much better ... than Gordo' tương đương với 'Gordon is much worse than I am ...'. Lưu ý đề in là 'Gordo' nhưng dòng điền chỗ trống trong sách là 'Gordon is ...'.",
+    "section": "Grammar - Comparatives"
+  },
+  {
+    "id": 67,
+    "sentence": "There were such a lot of customers that I didn’t get a break all day. (many)",
+    "instruction": "There were ........................................................ that I didn’t get a break all day.",
+    "answer": "There were so many customers that I didn’t get a break all day.",
+    "explanation": "Đổi từ 'such a lot of customers' sang 'so many customers'. Vì 'customers' là danh từ đếm được số nhiều nên dùng 'many'.",
+    "section": "Grammar - So / Such"
+  },
+  {
+    "id": 68,
+    "sentence": "I’ve never done a job more difficult than this. (most)",
+    "instruction": "This is ........................................................ I’ve ever done.",
+    "answer": "This is the most difficult job I’ve ever done.",
+    "explanation": "Đổi từ so sánh hơn sang so sánh hơn nhất: 'more difficult than this' thành 'the most difficult'.",
+    "section": "Grammar - Superlatives"
+  },
+  {
+    "id": 69,
+    "sentence": "The hospital was so big that I couldn’t find my cousin’s bed. (such)",
+    "instruction": "It was ........................................................ I couldn’t find my cousin’s bed.",
+    "answer": "It was such a big hospital I couldn’t find my cousin’s bed.",
+    "explanation": "Đổi từ 'so + adjective' sang 'such + a/an + adjective + noun'. Trên bảng giáo viên viết không có từ 'that', nên đáp án được giữ đúng theo ảnh bảng.",
+    "section": "Grammar - So / Such"
+  },
+  {
+    "id": 70,
+    "sentence": "Tim caught a cold on holiday, but I was lucky and I didn’t. (than)",
+    "instruction": "I was ........................................................ and didn’t catch a cold on holiday.",
+    "answer": "I was luckier than Tim and didn’t catch a cold on holiday.",
+    "explanation": "Dùng so sánh hơn của 'lucky' là 'luckier than'. Câu mới diễn đạt rằng tôi may mắn hơn Tim vì tôi không bị cảm.",
+    "section": "Grammar - Comparatives"
+  },
+  {
+    "id": 71,
+    "sentence": "You became ill because the fish wasn’t cooked properly. (have)",
+    "instruction": "You wouldn’t ........................................................ if the fish had been cooked properly.",
+    "answer": "You wouldn’t have become ill if the fish had been cooked properly.",
+    "explanation": "Đây là câu điều kiện loại 3: 'wouldn’t have + past participle'. Diễn tả một kết quả trong quá khứ đã không xảy ra nếu điều kiện quá khứ khác đi.",
+    "section": "Grammar - Conditional type 3"
+  },
+  {
+    "id": 72,
+    "sentence": "You didn’t get better because you didn’t take your pills. (have)",
+    "instruction": "You would ........................................................ if you had taken your pills.",
+    "answer": "You would have got better if you had taken your pills.",
+    "explanation": "Câu điều kiện loại 3: 'would have + past participle'. Trên bảng là 'would have got better', nên mình giữ đúng theo ảnh.",
+    "section": "Grammar - Conditional type 3"
+  },
+  {
+    "id": 73,
+    "sentence": "The price of bread has increased again. (in)",
+    "instruction": "There has been another ........................................................",
+    "answer": "There has been another increase in the price of bread.",
+    "explanation": "Đổi động từ 'increase' thành danh từ 'increase'. Cấu trúc mới là 'There has been another increase in ...'.",
+    "section": "Grammar - Word transformation"
+  },
+  {
+    "id": 74,
+    "sentence": "What were you wearing when it started snowing? (on)",
+    "instruction": "What did ........................................................ when it started snowing?",
+    "answer": "What did you have on when it started snowing?",
+    "explanation": "Cụm 'have on' có nghĩa tương đương với 'wear' trong ngữ cảnh đang mặc gì.",
+    "section": "Grammar - Phrasal usage"
+  },
+  {
+    "id": 75,
+    "sentence": "This painting is like that one. (similar)",
+    "instruction": "This painting ........................................................",
+    "answer": "This painting is similar to that one.",
+    "explanation": "Cấu trúc tương đương: 'be like' có thể đổi thành 'be similar to'.",
+    "section": "Grammar - Similar structures"
+  },
+  {
+    "id": 76,
+    "sentence": "This wall keeps the animals in. (prevents)",
+    "instruction": "This wall ........................................................",
+    "answer": "This wall prevents the animals from getting out.",
+    "explanation": "Cấu trúc: prevent sb from doing sth = ngăn ai làm gì.",
+    "section": "Grammar - Verb patterns"
+  },
+  {
+    "id": 77,
+    "sentence": "Snakes don’t frighten Carol. (afraid)",
+    "instruction": "Carol isn’t ........................................................",
+    "answer": "Carol isn’t afraid of snakes.",
+    "explanation": "frighten → be afraid of.",
+    "section": "Grammar - Adjective structures"
+  },
+  {
+    "id": 78,
+    "sentence": "You didn’t write the final paragraph of your composition. (left)",
+    "instruction": "You ........................................................ the final paragraph of your composition.",
+    "answer": "You left out the final paragraph of your composition.",
+    "explanation": "leave out = bỏ sót.",
+    "section": "Grammar - Phrasal verbs"
+  },
+  {
+    "id": 79,
+    "sentence": "Would you like to help produce a school magazine? (involved)",
+    "instruction": "Would you like to ........................................................ a school magazine?",
+    "answer": "Would you like to get involved in producing a school magazine?",
+    "explanation": "get involved in + V-ing = tham gia vào.",
+    "section": "Grammar - Phrasal verbs"
+  },
+  {
+    "id": 80,
+    "sentence": "I didn’t know that. (aware)",
+    "instruction": "I wasn’t ........................................................",
+    "answer": "I wasn’t aware of that.",
+    "explanation": "be aware of = biết về.",
+    "section": "Grammar - Fixed expressions"
+  },
+  {
+    "id": 81,
+    "sentence": "I don’t think you should go swimming so soon after lunch. (against)",
+    "instruction": "I would ........................................................ swimming so soon after lunch.",
+    "answer": "I would advise against swimming so soon after lunch.",
+    "explanation": "advise against + V-ing = khuyên không nên.",
+    "section": "Grammar - Verb patterns"
+  },
+  {
+    "id": 82,
+    "sentence": "‘Alex, hurry up or we’ll be late!’ (on)",
+    "instruction": "‘Alex, ........................................................ or we’ll be late!’",
+    "answer": "‘Alex, come on or we’ll be late!’",
+    "explanation": "come on = nhanh lên.",
+    "section": "Grammar - Phrasal verbs"
+  },
+  {
+    "id": 83,
+    "sentence": "Why don’t you throw that old furniture away? (rid)",
+    "instruction": "Why don’t you ........................................................ ?",
+    "answer": "Why don’t you get rid of that old furniture?",
+    "explanation": "get rid of = vứt bỏ.",
+    "section": "Grammar - Phrasal verbs"
+  },
+  {
+    "id": 84,
+    "sentence": "What you said really surprised me. (by)",
+    "instruction": "I was really surprised ........................................................",
+    "answer": "I was really surprised by what you said.",
+    "explanation": "be surprised by + clause.",
+    "section": "Grammar - Passive structures"
+  },
+  {
+    "id": 85,
+    "sentence": "I can’t hear you, so can you talk more loudly, please? (up)",
+    "instruction": "I can’t hear you, so can you ........................................................, please?",
+    "answer": "I can’t hear you, so can you speak up, please?",
+    "explanation": "speak up = nói to hơn.",
+    "section": "Grammar - Phrasal verbs"
+  },
+  {
+    "id": 86,
+    "sentence": "I don’t want to play computer games anymore. (tired)",
+    "instruction": "I’m ........................................................",
+    "answer": "I’m tired of playing computer games.",
+    "explanation": "be tired of + V-ing = chán làm gì.",
+    "section": "Grammar - Verb patterns"
+  },
+  {
+    "id": 87,
+    "sentence": "I haven’t got any money left. (run)",
+    "instruction": "I have ........................................................",
+    "answer": "I have run out of money.",
+    "explanation": "run out of = hết.",
+    "section": "Grammar - Phrasal verbs"
+  },
+  {
+    "id": 88,
+    "sentence": "That tree might fall down. (danger)",
+    "instruction": "That tree is ........................................................",
+    "answer": "That tree is in danger of falling down.",
+    "explanation": "in danger of + V-ing.",
+    "section": "Grammar - Fixed expressions"
+  },
+  {
+    "id": 89,
+    "sentence": "Who thought of that solution? (came)",
+    "instruction": "Who came ........................................................ ?",
+    "answer": "Who came up with that solution?",
+    "explanation": "come up with = nghĩ ra.",
+    "section": "Grammar - Phrasal verbs"
+  }
+]
